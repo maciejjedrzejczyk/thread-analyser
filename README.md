@@ -85,4 +85,4 @@ The application supports both Ollama and LMStudio as local LLM providers. You ca
 
 ## License
 
-MIT
+Apache License 2.0. See [LICENSE](LICENSE) file for details.
